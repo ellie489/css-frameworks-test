@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ellie489/css-frameworks-ca/issues"
   },
-  "homepage": "https://github.com/ellie489/css-frameworks-ca#readme"
+  "homepage": "https://github.com/ellie489/css-frameworks-ca#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
 }
